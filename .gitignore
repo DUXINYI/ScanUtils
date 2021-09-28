@@ -1,0 +1,9 @@
+/.vs/ScanUtils/v16/*.suo
+/packages/NTwain.3.7.0
+/ScanUtils/bin/Debug
+/ScanUtils/bin/x86/Debug
+/ScanUtils/bin/x86/Release
+/ScanUtils/obj/Debug
+/ScanUtils/obj/x86/Debug
+Release
+Debug
